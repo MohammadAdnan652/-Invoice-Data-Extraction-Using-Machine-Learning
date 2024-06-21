@@ -77,6 +77,4 @@ The optimized model was tested on a client desktop. The following performance me
 
 The invoice data extraction project successfully demonstrates the use of machine learning to handle diverse invoice formats and extract key information without hardcoded labels. The optimized model is efficient and performs well on client desktops, making it a practical solution for real-world applications.
 
----
 
-For any further questions or issues, please refer to the documentation or contact the project maintainer.
